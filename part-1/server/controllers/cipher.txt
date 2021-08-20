@@ -1,0 +1,44 @@
+Part 2 
+
+Ceasar cipher 
+
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+WXYZABCDEFGHIJKLMNOPQRSTUV
+
+
+E HKZE YNULPKCNWLDU
+
+
+I Love Cryptography
+
+The basic premise of this code is you take a alphabet
+and you shift the whole alphabet by a certain letter 
+in this case by 4. 
+
+
+
+
+
+Part 3
+Essay on data breach
+
+The alibaba cyber breach that happened in 2019 was big enough that they got 1.1
+billion pieces of user data. They were able to get unsernames, phone numbers and 
+other info. None of it was sold but used for person services. It was stolen by a 
+contractor of the chinese company. 
+
+The two were sentenced to two years in jail and fines totaling $70,260. None of
+the data was sold it was used to serve clients. The breach came from another shopping 
+site owned by alibabe named Taobao. A deveoper there who was working on their software 
+used a traching software to discreetly take and save customers data.
+
+Alibaba realeased a statement saying “Taobao devotes substantial resources to combat 
+unauthorized scraping on our platform, as data privacy and security is of utmost importance. 
+We have proactively discovered and addressed this unauthorized scraping,” “We will continue 
+to work with law enforcement to defend and protect the interests of our users and partners.”
+
+
+
+
+
+
